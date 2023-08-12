@@ -1,0 +1,5 @@
+ALTER DATABASE SAMPLE2 Modify Name = Sample2
+
+DROP DATABASE Sample2
+
+
